@@ -1,0 +1,135 @@
+CURRÍCULUM VITAE - EJEMPLO
+==========================
+
+INFORMACIÓN PERSONAL
+--------------------
+Nombre: Juan Pérez
+Email: juan.perez@email.com
+Teléfono: +54 11 1234-5678
+LinkedIn: linkedin.com/in/juanperez
+Ubicación: Buenos Aires, Argentina
+
+PERFIL PROFESIONAL
+------------------
+Desarrollador de software con 5 años de experiencia en desarrollo web y machine learning.
+Especializado en Python, Django y aplicaciones de inteligencia artificial. Apasionado por
+la resolución de problemas complejos y el aprendizaje continuo.
+
+EXPERIENCIA LABORAL
+-------------------
+
+Desarrollador Senior de Machine Learning
+TechCorp S.A. | Enero 2021 - Presente
+- Desarrollo e implementación de modelos de machine learning para análisis predictivo
+- Liderazgo de equipo de 3 desarrolladores junior
+- Optimización de pipelines de datos reduciendo tiempo de procesamiento en 40%
+- Implementación de sistemas de recomendación usando técnicas de deep learning
+- Tecnologías: Python, TensorFlow, PyTorch, Scikit-learn, Docker, Kubernetes
+
+Desarrollador Python
+StartupXYZ | Marzo 2019 - Diciembre 2020
+- Desarrollo de APIs RESTful usando Django y Flask
+- Implementación de bases de datos relacionales y NoSQL (PostgreSQL, MongoDB)
+- Integración de servicios de terceros (APIs de pago, servicios cloud)
+- Participación en code reviews y mejoras de arquitectura
+- Tecnologías: Python, Django, Flask, PostgreSQL, MongoDB, AWS
+
+Desarrollador Junior
+Agencia Digital ABC | Junio 2018 - Febrero 2019
+- Desarrollo de aplicaciones web frontend y backend
+- Mantenimiento de sitios web existentes
+- Colaboración con diseñadores en implementación de interfaces
+- Tecnologías: Python, JavaScript, HTML, CSS, React
+
+EDUCACIÓN
+---------
+
+Maestría en Inteligencia Artificial
+Universidad de Buenos Aires | 2022 - 2024
+- Especialización en Deep Learning y Procesamiento de Lenguaje Natural
+- Tesis: "Aplicación de Transformers para Análisis de Sentimientos"
+- Promedio: 9.2/10
+
+Ingeniería en Sistemas
+Universidad Tecnológica Nacional | 2014 - 2018
+- Especialización en Sistemas Distribuidos
+- Proyecto final: Sistema de gestión de inventarios con microservicios
+- Promedio: 8.5/10
+
+HABILIDADES TÉCNICAS
+--------------------
+
+Lenguajes de Programación:
+- Python (Avanzado) - 5 años de experiencia
+- JavaScript (Intermedio) - 3 años de experiencia
+- SQL (Avanzado) - 5 años de experiencia
+- Java (Básico) - 1 año de experiencia
+
+Frameworks y Librerías:
+- Django, Flask (Python web frameworks)
+- TensorFlow, PyTorch (Deep Learning)
+- Scikit-learn, Pandas, NumPy (Data Science)
+- React (Frontend)
+
+Bases de Datos:
+- PostgreSQL, MySQL (Relacionales)
+- MongoDB, Redis (NoSQL)
+
+Cloud y DevOps:
+- AWS (EC2, S3, Lambda)
+- Docker, Kubernetes
+- CI/CD con GitHub Actions
+
+Machine Learning:
+- Modelos supervisados y no supervisados
+- Deep Learning (CNNs, RNNs, Transformers)
+- NLP (Tokenización, Embeddings, RAG)
+- Computer Vision
+
+PROYECTOS DESTACADOS
+--------------------
+
+Sistema de Recomendación de Productos
+2023
+- Desarrollo de sistema de recomendación usando collaborative filtering y deep learning
+- Implementación en producción con más de 100,000 usuarios activos
+- Mejora del 25% en conversión de ventas
+- Tecnologías: Python, TensorFlow, PostgreSQL, Redis
+
+Chatbot con RAG para Atención al Cliente
+2024
+- Implementación de chatbot usando Retrieval-Augmented Generation
+- Integración con base de datos vectorial (Pinecone)
+- Reducción del 30% en tiempo de respuesta al cliente
+- Tecnologías: Python, LangChain, Groq, Pinecone, Streamlit
+
+Análisis Predictivo de Ventas
+2022
+- Modelo de predicción de ventas usando time series forecasting
+- Integración con sistema ERP existente
+- Precisión del 85% en predicciones mensuales
+- Tecnologías: Python, Prophet, Scikit-learn, PostgreSQL
+
+CERTIFICACIONES
+---------------
+- AWS Certified Solutions Architect (2023)
+- Google Cloud Professional Machine Learning Engineer (2022)
+- Deep Learning Specialization - Coursera (2021)
+
+IDIOMAS
+-------
+- Español: Nativo
+- Inglés: Avanzado (C1)
+- Portugués: Intermedio (B2)
+
+PUBLICACIONES
+-------------
+- "Aplicación de Transformers en Análisis de Sentimientos" - Conferencia IA 2024
+- "Optimización de Modelos de ML en Producción" - Blog TechCorp (2023)
+
+INTERESES
+---------
+- Contribuciones open source en proyectos de ML
+- Participación en hackathons y competencias de Kaggle
+- Lectura de papers sobre IA y asistencia a conferencias
+
