@@ -1,0 +1,79 @@
+# ============================================
+# API Keys y Secretos - NUNCA subir a Git
+# ============================================
+.env
+*.env
+**/.env
+**/*.key
+**/*secret*
+**/configurar_env.py
+
+# Archivos personales del CV (opcional - puedes comentar si quieres subirlo)
+CEIA-LLMIAG/ClaseVI/codigo/cv.txt
+
+# ============================================
+# Archivos de Análisis Personal - NO subir
+# ============================================
+# Archivos de síntesis y análisis personal
+CEIA-LLMIAG/CLASE_*_20_PORCIENTO.md
+CEIA-LLMIAG/SINTESIS_CONOCIMIENTO_ACUMULATIVO.md
+
+# Notas de Gemini (documentos Word)
+Procesamiento del Lenguaje Natural II*.docx
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# ============================================
+# IDEs
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ============================================
+# OS
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Logs y temporales
+# ============================================
+*.log
+*.tmp
+*.temp
+~$*
+
+# ============================================
+# Modelos grandes (opcional - si descargas modelos)
+# ============================================
+# *.bin
+# *.safetensors
+# models/
+# checkpoints/
