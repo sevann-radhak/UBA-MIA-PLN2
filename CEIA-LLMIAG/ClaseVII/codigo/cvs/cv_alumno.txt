@@ -1,0 +1,141 @@
+CURRÍCULUM VITAE - ALUMNO
+==========================
+
+INFORMACIÓN PERSONAL
+--------------------
+Nombre: María González
+Email: maria.gonzalez@email.com
+Teléfono: +54 11 9876-5432
+LinkedIn: linkedin.com/in/mariagonzalez
+Ubicación: Buenos Aires, Argentina
+
+PERFIL PROFESIONAL
+------------------
+Científica de Datos con 4 años de experiencia en análisis de datos y machine learning.
+Especializada en procesamiento de lenguaje natural y visión por computadora. 
+Experiencia en investigación académica y aplicaciones industriales.
+
+EXPERIENCIA LABORAL
+-------------------
+
+Científica de Datos Senior
+DataTech Solutions | Marzo 2022 - Presente
+- Desarrollo de modelos de NLP para análisis de sentimientos en redes sociales
+- Implementación de sistemas de clasificación de texto usando Transformers
+- Liderazgo técnico en proyectos de IA generativa
+- Optimización de modelos reduciendo latencia en 50%
+- Tecnologías: Python, PyTorch, HuggingFace, BERT, GPT, Pinecone
+
+Investigadora en IA
+Instituto de Investigación en IA | Agosto 2020 - Febrero 2022
+- Investigación en modelos de lenguaje grandes (LLMs)
+- Publicación de papers en conferencias internacionales
+- Desarrollo de técnicas de fine-tuning para dominios específicos
+- Colaboración con equipos multidisciplinarios
+- Tecnologías: Python, TensorFlow, Transformers, CUDA
+
+Analista de Datos
+Consultora Analytics | Enero 2019 - Julio 2020
+- Análisis exploratorio de datos para clientes corporativos
+- Desarrollo de dashboards interactivos
+- Implementación de modelos predictivos básicos
+- Tecnologías: Python, Pandas, Scikit-learn, Tableau, SQL
+
+EDUCACIÓN
+---------
+
+Maestría en Inteligencia Artificial
+Universidad de Buenos Aires | 2023 - 2025 (En curso)
+- Especialización en Procesamiento de Lenguaje Natural
+- Cursos: Transformers, Deep Learning, Computer Vision
+- Trabajos prácticos: RAG, Agentes, Fine-tuning
+
+Licenciatura en Ciencias de la Computación
+Universidad de Buenos Aires | 2015 - 2019
+- Especialización en Inteligencia Artificial
+- Tesis: "Aplicación de Redes Neuronales en Análisis de Imágenes"
+- Promedio: 9.0/10
+
+HABILIDADES TÉCNICAS
+--------------------
+
+Lenguajes de Programación:
+- Python (Avanzado) - 6 años de experiencia
+- R (Intermedio) - 3 años de experiencia
+- SQL (Avanzado) - 5 años de experiencia
+- JavaScript (Básico) - 2 años de experiencia
+
+Machine Learning y Deep Learning:
+- PyTorch, TensorFlow (Frameworks principales)
+- Transformers (BERT, GPT, T5)
+- Fine-tuning de modelos preentrenados
+- RAG (Retrieval-Augmented Generation)
+- Agentes de IA (ReAct, LangChain)
+
+NLP Específico:
+- Tokenización y embeddings
+- Modelos de lenguaje grandes
+- Análisis de sentimientos
+- Clasificación de texto
+- Generación de texto
+
+Bases de Datos:
+- PostgreSQL, MySQL
+- Pinecone (Vector databases)
+- MongoDB
+
+Cloud y Herramientas:
+- AWS (SageMaker, EC2)
+- Docker
+- Git, GitHub
+- Streamlit, Gradio
+
+PROYECTOS DESTACADOS
+--------------------
+
+Sistema de Análisis de Sentimientos con BERT
+2024
+- Fine-tuning de BERT para análisis de sentimientos en español
+- Dataset de 50,000 reviews de productos
+- Accuracy del 92% en clasificación
+- Tecnologías: Python, HuggingFace, PyTorch
+
+Chatbot con RAG para Documentación Técnica
+2024
+- Implementación de chatbot usando RAG con Pinecone
+- Base de conocimiento de 10,000 documentos técnicos
+- Reducción del 40% en tiempo de búsqueda de información
+- Tecnologías: Python, LangChain, Groq, Pinecone, Streamlit
+
+Sistema de Clasificación de Imágenes con Vision Transformers
+2023
+- Implementación de ViT para clasificación de imágenes médicas
+- Dataset de 20,000 imágenes de rayos X
+- Precisión del 94% en detección de anomalías
+- Tecnologías: Python, PyTorch, Vision Transformers
+
+CERTIFICACIONES
+---------------
+- Deep Learning Specialization - DeepLearning.AI (2023)
+- Natural Language Processing - Stanford Online (2022)
+- AWS Certified Machine Learning Specialty (2023)
+
+IDIOMAS
+-------
+- Español: Nativo
+- Inglés: Avanzado (C1)
+- Francés: Intermedio (B1)
+
+PUBLICACIONES
+-------------
+- "Fine-tuning BERT for Sentiment Analysis in Spanish" - Conference on NLP 2024
+- "RAG Applications in Technical Documentation" - AI Journal 2024
+- "Vision Transformers for Medical Image Classification" - Medical AI Conference 2023
+
+INTERESES
+---------
+- Investigación en modelos de lenguaje grandes
+- Contribuciones a proyectos open source de NLP
+- Participación en competencias de Kaggle
+- Lectura de papers sobre IA y asistencia a conferencias
+

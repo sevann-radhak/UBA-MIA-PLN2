@@ -1,0 +1,134 @@
+CURRÍCULUM VITAE - PEDRO MARTÍNEZ
+==================================
+
+INFORMACIÓN PERSONAL
+--------------------
+Nombre: Pedro Martínez
+Email: pedro.martinez@email.com
+Teléfono: +54 11 5555-1234
+LinkedIn: linkedin.com/in/pedromartinez
+Ubicación: Córdoba, Argentina
+
+PERFIL PROFESIONAL
+------------------
+Ingeniero de Software con 6 años de experiencia en desarrollo backend y arquitectura de sistemas.
+Especializado en microservicios, APIs RESTful y sistemas distribuidos. 
+Experiencia liderando equipos de desarrollo y diseñando arquitecturas escalables.
+
+EXPERIENCIA LABORAL
+-------------------
+
+Arquitecto de Software
+TechSolutions Inc. | Enero 2021 - Presente
+- Diseño e implementación de arquitecturas de microservicios
+- Liderazgo de equipo de 5 desarrolladores
+- Migración de sistemas monolíticos a arquitectura de microservicios
+- Implementación de CI/CD pipelines reduciendo tiempo de deployment en 60%
+- Tecnologías: Python, Java, Docker, Kubernetes, AWS, Kafka
+
+Ingeniero de Software Senior
+CloudSystems S.A. | Junio 2018 - Diciembre 2020
+- Desarrollo de APIs RESTful y GraphQL
+- Implementación de sistemas de mensajería asíncrona
+- Optimización de bases de datos y queries complejas
+- Participación en diseño de arquitectura de sistemas
+- Tecnologías: Python, Django, FastAPI, PostgreSQL, Redis, RabbitMQ
+
+Desarrollador Backend
+StartupTech | Agosto 2016 - Mayo 2018
+- Desarrollo de servicios backend en Python
+- Implementación de autenticación y autorización
+- Integración con servicios de terceros
+- Mantenimiento y debugging de aplicaciones en producción
+- Tecnologías: Python, Flask, SQLAlchemy, PostgreSQL, JWT
+
+EDUCACIÓN
+---------
+
+Ingeniería en Sistemas
+Universidad Nacional de Córdoba | 2012 - 2016
+- Especialización en Sistemas Distribuidos
+- Proyecto final: Sistema de gestión distribuida con microservicios
+- Promedio: 8.8/10
+
+HABILIDADES TÉCNICAS
+--------------------
+
+Lenguajes de Programación:
+- Python (Avanzado) - 6 años de experiencia
+- Java (Avanzado) - 5 años de experiencia
+- Go (Intermedio) - 2 años de experiencia
+- JavaScript/TypeScript (Intermedio) - 4 años de experiencia
+
+Backend y APIs:
+- Django, Flask, FastAPI (Python)
+- Spring Boot (Java)
+- RESTful APIs, GraphQL
+- WebSockets, Server-Sent Events
+
+Bases de Datos:
+- PostgreSQL, MySQL (Relacionales)
+- MongoDB, Redis (NoSQL)
+- Elasticsearch (Búsqueda)
+
+Arquitectura y DevOps:
+- Microservicios, Arquitectura de eventos
+- Docker, Kubernetes
+- AWS (EC2, ECS, Lambda, S3)
+- CI/CD (GitHub Actions, Jenkins)
+- Message Queues (Kafka, RabbitMQ)
+
+Sistemas Distribuidos:
+- Service Mesh (Istio)
+- Distributed Tracing
+- Load Balancing
+- Circuit Breakers
+
+PROYECTOS DESTACADOS
+--------------------
+
+Plataforma de E-commerce con Microservicios
+2023
+- Arquitectura de microservicios con 15 servicios independientes
+- Manejo de 1 millón de requests diarios
+- Tiempo de respuesta promedio de 150ms
+- Tecnologías: Python, FastAPI, Kubernetes, PostgreSQL, Redis, Kafka
+
+Sistema de Procesamiento de Pagos
+2022
+- API de pagos con alta disponibilidad (99.9% uptime)
+- Procesamiento de 500,000 transacciones diarias
+- Integración con múltiples gateways de pago
+- Tecnologías: Python, Django, PostgreSQL, Redis, AWS
+
+Sistema de Notificaciones en Tiempo Real
+2021
+- Sistema de notificaciones push y email
+- Procesamiento asíncrono con colas
+- Escalabilidad horizontal automática
+- Tecnologías: Python, Celery, RabbitMQ, Redis, WebSockets
+
+CERTIFICACIONES
+---------------
+- AWS Certified Solutions Architect Professional (2023)
+- Kubernetes Administrator (CKA) (2022)
+- Docker Certified Associate (2021)
+
+IDIOMAS
+-------
+- Español: Nativo
+- Inglés: Avanzado (C1)
+- Portugués: Básico (A2)
+
+PUBLICACIONES
+-------------
+- "Microservices Architecture Patterns" - Software Architecture Conference 2023
+- "Scaling Backend Systems with Kubernetes" - DevOps Blog 2022
+
+INTERESES
+---------
+- Arquitectura de software y patrones de diseño
+- Contribuciones a proyectos open source
+- Lectura sobre sistemas distribuidos y escalabilidad
+- Participación en meetups de desarrollo de software
+

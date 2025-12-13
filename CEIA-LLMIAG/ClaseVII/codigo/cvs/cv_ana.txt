@@ -1,0 +1,143 @@
+CURRÍCULUM VITAE - ANA RODRÍGUEZ
+=================================
+
+INFORMACIÓN PERSONAL
+--------------------
+Nombre: Ana Rodríguez
+Email: ana.rodriguez@email.com
+Teléfono: +54 11 4444-9876
+LinkedIn: linkedin.com/in/anarodriguez
+Ubicación: Rosario, Argentina
+
+PERFIL PROFESIONAL
+------------------
+Especialista en Machine Learning Operations (MLOps) con 5 años de experiencia.
+Enfoque en deployment, monitoreo y mantenimiento de modelos de ML en producción.
+Experiencia en automatización de pipelines de ML y optimización de modelos.
+
+EXPERIENCIA LABORAL
+-------------------
+
+MLOps Engineer Senior
+MLOps Solutions | Febrero 2022 - Presente
+- Diseño e implementación de pipelines de ML end-to-end
+- Deployment de modelos en producción usando Kubernetes
+- Monitoreo y observabilidad de modelos en producción
+- Automatización de retraining y versionado de modelos
+- Tecnologías: Python, MLflow, Kubeflow, Docker, Kubernetes, Prometheus
+
+Data Engineer / ML Engineer
+DataCorp | Septiembre 2019 - Enero 2022
+- Construcción de pipelines de datos para entrenamiento de modelos
+- Feature engineering y feature stores
+- Optimización de modelos para producción
+- Colaboración con científicos de datos en proyectos de ML
+- Tecnologías: Python, Apache Airflow, Spark, Pandas, Scikit-learn
+
+Analista de Datos
+Analytics Pro | Marzo 2018 - Agosto 2019
+- Análisis de datos para toma de decisiones de negocio
+- Desarrollo de dashboards y reportes
+- Implementación de modelos predictivos básicos
+- Tecnologías: Python, SQL, Tableau, Excel
+
+EDUCACIÓN
+---------
+
+Maestría en Ciencia de Datos
+Universidad Nacional de Rosario | 2020 - 2022
+- Especialización en Machine Learning y Big Data
+- Tesis: "MLOps: Best Practices for Production ML Systems"
+- Promedio: 9.1/10
+
+Ingeniería en Informática
+Universidad Nacional de Rosario | 2014 - 2018
+- Especialización en Bases de Datos y Sistemas Distribuidos
+- Promedio: 8.7/10
+
+HABILIDADES TÉCNICAS
+--------------------
+
+Lenguajes de Programación:
+- Python (Avanzado) - 6 años de experiencia
+- SQL (Avanzado) - 6 años de experiencia
+- Scala (Intermedio) - 2 años de experiencia
+- Bash (Intermedio) - 4 años de experiencia
+
+MLOps y DevOps:
+- MLflow, Kubeflow (ML pipelines)
+- Docker, Kubernetes (Containerización)
+- CI/CD (GitHub Actions, GitLab CI)
+- Monitoring (Prometheus, Grafana)
+- Feature Stores (Feast, Tecton)
+
+Machine Learning:
+- Scikit-learn, XGBoost, LightGBM
+- Model versioning y experiment tracking
+- Model serving (TensorFlow Serving, TorchServe)
+- A/B testing de modelos
+
+Big Data:
+- Apache Spark, Airflow
+- Data pipelines y ETL
+- Data warehouses (Snowflake, BigQuery)
+
+Cloud:
+- AWS (SageMaker, ECS, Lambda)
+- GCP (Vertex AI, Cloud Run)
+- Azure (ML Studio)
+
+Bases de Datos:
+- PostgreSQL, MySQL
+- MongoDB
+- Redis
+
+PROYECTOS DESTACADOS
+--------------------
+
+Plataforma MLOps para Modelos de Recomendación
+2024
+- Pipeline completo de ML desde entrenamiento hasta producción
+- Auto-retraining basado en drift detection
+- A/B testing framework para modelos
+- Reducción del 70% en tiempo de deployment
+- Tecnologías: Python, MLflow, Kubernetes, Prometheus, Feast
+
+Sistema de Monitoreo de Modelos en Producción
+2023
+- Sistema de monitoreo de performance y drift de modelos
+- Alertas automáticas cuando modelos degradan
+- Dashboard de métricas en tiempo real
+- Tecnologías: Python, Prometheus, Grafana, MLflow
+
+Feature Store para Modelos de ML
+2022
+- Implementación de feature store centralizado
+- Reutilización de features entre múltiples modelos
+- Versionado y lineage de features
+- Tecnologías: Python, Feast, PostgreSQL, Redis
+
+CERTIFICACIONES
+---------------
+- AWS Certified Machine Learning Specialty (2023)
+- Kubernetes Administrator (CKA) (2022)
+- Databricks Certified ML Associate (2023)
+
+IDIOMAS
+-------
+- Español: Nativo
+- Inglés: Avanzado (C1)
+- Italiano: Básico (A2)
+
+PUBLICACIONES
+-------------
+- "MLOps Best Practices: From Development to Production" - MLOps Conference 2024
+- "Monitoring ML Models in Production" - Data Engineering Blog 2023
+
+INTERESES
+---------
+- MLOps y mejores prácticas para ML en producción
+- Contribuciones a proyectos open source de MLOps
+- Participación en comunidades de ML y Data Engineering
+- Lectura sobre arquitecturas de ML y sistemas distribuidos
+
