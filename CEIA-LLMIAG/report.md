@@ -32,11 +32,6 @@ Toda la información detallada sobre la implementación, uso y estructura de los
 - **`CEIA-LLMIAG/ClaseVII/codigo/tp3_agente.py`** - agente principal que integra todos los componentes.
 - **`CEIA-LLMIAG/ClaseVII/codigo/tp3_interfaz.py`** - interfaz Streamlit para interactuar con el agente.
 
-#### Guías y documentación general:
-- **`CEIA-LLMIAG/GUIA_ENTREGA_FINAL.md`** - guía completa de entrega con checklist.
-- **`CEIA-LLMIAG/INSTRUCCIONES_RAPIDAS.md`** - instrucciones rápidas de uso.
-- **`CEIA-LLMIAG/PLAN_MAESTRO_ENTREGABLES.md`** - plan maestro con toda la información de los TPs.
-
 ### Características implementadas
 
 #### TP2:
