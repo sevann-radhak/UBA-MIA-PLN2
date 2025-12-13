@@ -2,16 +2,16 @@
 
 ---
 
-### 📦 Trabajos entregados
+### Trabajos entregados
 
 **TP2: Chatbot RAG con CVs**  
 **TP3: Agentes con múltiples CVs**
 
-### 📁 Repositorio
+### Repositorio
 
 **Link al repositorio**: https://github.com/sevann-radhak/UBA-MIA-PLN2
 
-### 📚 Documentación y estructura
+### Documentación y estructura
 
 Toda la información detallada sobre la implementación, uso y estructura de los trabajos se encuentra en los siguientes archivos del repositorio:
 
@@ -37,7 +37,7 @@ Toda la información detallada sobre la implementación, uso y estructura de los
 - **`CEIA-LLMIAG/INSTRUCCIONES_RAPIDAS.md`** - instrucciones rápidas de uso.
 - **`CEIA-LLMIAG/PLAN_MAESTRO_ENTREGABLES.md`** - plan maestro con toda la información de los TPs.
 
-### ✅ Características implementadas
+### Características implementadas
 
 #### TP2:
 - Sistema RAG completo con Pinecone
@@ -57,19 +57,19 @@ Toda la información detallada sobre la implementación, uso y estructura de los
 - Interfaz completa con detalles del proceso
 - Documentación exhaustiva
 
-### 📋 Instrucciones de uso
+### Instrucciones de uso
 
 Las instrucciones detalladas de instalación, configuración y uso se encuentran en:
 - **TP2**: `CEIA-LLMIAG/ClaseVI/codigo/README_TP2.md`
 - **TP3**: `CEIA-LLMIAG/ClaseVII/codigo/README_TP3.md`
 
-### 🔧 Requisitos
+### Requisitos
 
 - Python 3.x
 - API keys de Pinecone y Groq (configuradas en archivo `.env`)
 - Dependencias listadas en `requirements.txt`
 
-### 📝 Notas Adicionales
+### Notas Adicionales
 
 - El código está completamente documentado y comentado.
 - Todos los scripts incluyen manejo de errores.
