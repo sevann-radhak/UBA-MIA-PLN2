@@ -43,7 +43,7 @@ Toda la información detallada sobre la implementación, uso y estructura de los
 
 #### TP3:
 - Sistema de agentes con nodo decisor
-- Múltiples CVs consultables (3 CVs: alumno, Pedro, Ana)
+- Múltiples CVs consultables (3 CVs: Maria, Pedro, Ana)
 - Herramientas RAG independientes por CV
 - Agente principal con patrón ReAct
 - Soporte para queries genéricas (CV del alumno)
