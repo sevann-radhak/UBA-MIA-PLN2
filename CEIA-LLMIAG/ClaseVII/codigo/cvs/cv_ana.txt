@@ -141,3 +141,5 @@ INTERESES
 - Participación en comunidades de ML y Data Engineering
 - Lectura sobre arquitecturas de ML y sistemas distribuidos
 
+
+

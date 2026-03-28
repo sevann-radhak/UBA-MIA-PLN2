@@ -139,3 +139,5 @@ INTERESES
 - Participación en competencias de Kaggle
 - Lectura de papers sobre IA y asistencia a conferencias
 
+
+

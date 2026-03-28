@@ -207,3 +207,5 @@ Respuesta: "Pedro tiene 6 años de experiencia en Python...
 - Muestra mensaje de error al usuario
 - Sugiere verificar índices de Pinecone
 
+
+

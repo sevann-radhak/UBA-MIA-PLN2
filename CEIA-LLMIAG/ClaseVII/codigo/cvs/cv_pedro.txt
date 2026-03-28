@@ -132,3 +132,5 @@ INTERESES
 - Lectura sobre sistemas distribuidos y escalabilidad
 - Participación en meetups de desarrollo de software
 
+
+
